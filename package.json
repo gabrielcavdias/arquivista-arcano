@@ -1,0 +1,15 @@
+{
+  "name": "arquivista_arcano",
+  "version": "1.0.0",
+  "description": "Scraping data from trpg wikia",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.1.0"
+  }
+}
